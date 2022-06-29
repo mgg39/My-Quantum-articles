@@ -1,4 +1,4 @@
-#My Quantum articles
+# My Quantum articles
 
 This repository contains publications authored by me, that pertain to Quantum technologies and Quantum concepts, that might help readers learn about various topics within the Quantum field.
 Current publications include:
